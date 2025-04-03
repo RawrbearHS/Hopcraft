@@ -1,13 +1,13 @@
 name = "Better Spawner Control"
-filename = "betterspawnercontrol-1.21.5-4.7.jar"
+filename = "betterspawnercontrol-1.21.1-4.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5c9ce108bc1adc5694f5bec7c9babc6717cbe01a"
+hash = "040b12c2748dd069506d4d051396391ed989fc92"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6356945
+file-id = 6186435
 project-id = 344036

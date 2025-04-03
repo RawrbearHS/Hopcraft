@@ -1,13 +1,13 @@
 name = "Sticky Enchanting Lapis"
-filename = "stickyenchantinglapis-1.21.5-1.5.jar"
+filename = "stickyenchantinglapis-1.21.1-1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d275f060f686a884f21c170a18ddd0ff708abbe0"
+hash = "10f792f2aa0309614cc6539cafeb1b42fd3bba9f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6355636
+file-id = 6221457
 project-id = 1068275

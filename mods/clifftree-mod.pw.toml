@@ -1,13 +1,13 @@
 name = "Cliff under a Tree (Clifftree) - Mod Version"
-filename = "clifftree-2.1.jar"
+filename = "clifftree-2.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5197700a8c8321da9f2fcb2231ae250cbe13855a"
+hash = "119eefe665fd87bf34ff39566eea9b4fd3ec4786"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6352467
+file-id = 6086008
 project-id = 1048226

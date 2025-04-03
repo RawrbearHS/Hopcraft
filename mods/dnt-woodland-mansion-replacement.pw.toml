@@ -1,13 +1,13 @@
 name = "DnT Woodland Mansion Replacement"
-filename = "dnt-woodland-mansion-replacement-v1.6 [Fabric].jar"
+filename = "DnT-woodland-mansion-replacement-v1.2 [Fabric].jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fda0bbc7d39183005c1842d97fae36aae365144e"
+hash = "489198eaa01b3aa244b969523ce78fa09d7489a8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6352867
+file-id = 5724450
 project-id = 1053222

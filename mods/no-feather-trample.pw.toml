@@ -1,13 +1,13 @@
 name = "No Feather Trample"
-filename = "nofeathertrample-1.21.5-1.3.jar"
+filename = "nofeathertrample-1.21.1-1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "19dfe39354650e074a3995c33918175810ab1b0c"
+hash = "4b534ac2922b0b74e767181eccb0d8f9e5ea1d33"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6356313
+file-id = 5609571
 project-id = 950746

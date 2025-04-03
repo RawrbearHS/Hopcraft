@@ -1,13 +1,13 @@
 name = "Medieval Buildings - New Structures!"
-filename = "medieval_buildings-1.21.X-1.1.0-fabric.jar"
+filename = "medieval_buildings-1.21-1.1.0-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c3ec99a1e3d78c7089f372ef82d027089d292d2f"
+hash = "fb8d8b063a3020bff00506f28db3e7264173f918"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6360779
+file-id = 6313356
 project-id = 924590
