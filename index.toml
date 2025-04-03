@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/naturallychargedcreepers.json5"
+hash = "c01440930d7ee26d72cd54503788422dd3cab68196cf968785d616d9e489f554"
+
+[[files]]
+file = "config/passiveendermen.json5"
+hash = "c60c73176b1a284ba53fd513be629cdeec1e8561220fc61521ea7372a2e3a5cf"
+
+[[files]]
+file = "config/shulkerdropstwo.json5"
+hash = "39e73808f3dc67ae55a5d046fcef8ed54d3f7be961e76e8f2703bbd1c192b656"
+
+[[files]]
+file = "config/skeletonhorsespawn.json5"
+hash = "5a7c4b35ba74c7750f746876771937bde1bff140cedc99b36e673ea52738c86f"
+
+[[files]]
+file = "config/treeharvester/harvestable_axe_blacklist.txt"
+hash = "148f7809e109bba0b97450192da9b403ab91aa34d5ea0429990ceafc5af8f203"
+
+[[files]]
+file = "config/wheredididie.json5"
+hash = "c2c5e0d400168d0967cde36ca9dddb6c91f5ac3e065b8db7faac2e278463621c"
+
+[[files]]
+file = "config/zombiehorsespawn.json5"
+hash = "0e334551ab41bcbe645776ed8a7376f8946024ee59d4c597f74e33a70ce045bb"
+
+[[files]]
 file = "mods/adorabuild-structures.pw.toml"
 hash = "b50b4625e0d31cebe5e9d23a5ecd9c7e123449922d0fa2ca5cee780b930986e9"
 metafile = true
@@ -271,11 +299,6 @@ hash = "def57a3c61c0880bfcab170544b7e02cf338158a3e097795d3ce5011d4edcd18"
 metafile = true
 
 [[files]]
-file = "mods/starter-kit.pw.toml"
-hash = "2c8e3186b0cc85dc227269d343aab142dc795071e7fe7903de96a59cd578bf87"
-metafile = true
-
-[[files]]
 file = "mods/sticky-enchanting-lapis.pw.toml"
 hash = "727d9f83e949e50e26613cc52e92945b3fd468d5887ba771d9c8965cfc531cc4"
 metafile = true
@@ -298,11 +321,6 @@ metafile = true
 [[files]]
 file = "mods/villager-names.pw.toml"
 hash = "dc4f94e9e941d83729fcfd866a9e5d4d44002ceb52490cfa63fd2b20396a4ec0"
-metafile = true
-
-[[files]]
-file = "mods/where-did-i-die.pw.toml"
-hash = "d4fe57d0fe8058c34602b234de715483b3d985a021601121480e371a5b9c958f"
 metafile = true
 
 [[files]]
