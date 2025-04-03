@@ -1,0 +1,13 @@
+name = "DnT Stronghold Overhaul"
+filename = "dnt-stronghold-overhaul-v2.3.1 [Fabric].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79da354ad840135bb11e3b55e48356570f104e75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6352966
+project-id = 920416

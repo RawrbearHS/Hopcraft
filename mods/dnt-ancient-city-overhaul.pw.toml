@@ -1,0 +1,13 @@
+name = "DnT Ancient City Overhaul"
+filename = "dnt-ancient-city-overhaul-v3.1 [Fabric].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dedd13631a86c6e85a8fb919813c89ded11edc2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6352876
+project-id = 920418

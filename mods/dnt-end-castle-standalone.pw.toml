@@ -1,0 +1,13 @@
+name = "DnT End Castle Standalone"
+filename = "dnt-end-castle-standalone-v1.3.2 [Fabric].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e3b2f6a76a02f284cd0b8100b5cb03c2b86e412"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6352845
+project-id = 1059409

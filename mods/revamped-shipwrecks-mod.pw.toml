@@ -1,0 +1,13 @@
+name = "Revamped Shipwrecks (Mod)"
+filename = "Revamped Shipwrecks 1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cc0d86f14ebc88df141835930681b4a96aa7204"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6025489
+project-id = 1099021

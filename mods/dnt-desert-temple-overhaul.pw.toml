@@ -1,0 +1,13 @@
+name = "DnT Desert Temple Overhaul"
+filename = "dnt-desert-temple-overhaul-v2 [Fabric].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbbae332ec55db5273a9a78b18c8da1230a11222"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6352833
+project-id = 1053225
