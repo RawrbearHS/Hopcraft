@@ -1,0 +1,13 @@
+name = "Grass Seeds"
+filename = "grassseeds-1.21.5-3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d597d57a1402531f5f81eee92b2660640a4300d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6356626
+project-id = 345981

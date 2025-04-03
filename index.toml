@@ -6,6 +6,26 @@ hash = "b50b4625e0d31cebe5e9d23a5ecd9c7e123449922d0fa2ca5cee780b930986e9"
 metafile = true
 
 [[files]]
+file = "mods/areas.pw.toml"
+hash = "12f2c4a286bd46e6ccb34f49860b1c18428785aa5e6be8f77d7d3d7653088d9d"
+metafile = true
+
+[[files]]
+file = "mods/beautified-chat-server.pw.toml"
+hash = "4813ebafde539a6cf60ae87d32235231cc46061614df444857740a5adf66acfd"
+metafile = true
+
+[[files]]
+file = "mods/better-spawner-control.pw.toml"
+hash = "cad679e6caef724fc3b8688f7cbba0f4e3d73301c144daafd8e228f077948cfb"
+metafile = true
+
+[[files]]
+file = "mods/chorus-fruit-drops-nearby.pw.toml"
+hash = "9ffe423a5c7a92bb7e5f912297597c985b9117af4bf78fc4457b484839a92b49"
+metafile = true
+
+[[files]]
 file = "mods/clifftree-mod.pw.toml"
 hash = "80922427bfa961ac4b83d4c245ebf301ab202a1852771473a533f9f97ae2f4a7"
 metafile = true
@@ -18,6 +38,26 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "1b3e9439066178afbfbe2ea41351e5ff8146463a27fdd2b47ff6898ffa0681d7"
+metafile = true
+
+[[files]]
+file = "mods/compact-help-command.pw.toml"
+hash = "88e870d2daef554ed147ec061d938074fb0706aedbb875e334ce3f950af4402d"
+metafile = true
+
+[[files]]
+file = "mods/conduits-prevent-drowned.pw.toml"
+hash = "ee57f12dcd828c98be383011e3242f83539bf52e32fdbd165ffff2385c4f5bd4"
+metafile = true
+
+[[files]]
+file = "mods/cycle-paintings.pw.toml"
+hash = "e89370f44e146ec5f07ba356d866b340bdf1fd542952d555d552500421057d2d"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "fd16ddb38e32aee3badae2ec14ed73ff74838c8f2bce473641f30b2c2c23c764"
 metafile = true
 
 [[files]]
@@ -66,8 +106,23 @@ hash = "99bcff13c898d3dd4d0def2c57096a1f9c3ea5f2c60fe088c5d8c7e45051eddf"
 metafile = true
 
 [[files]]
+file = "mods/dragon-drops-elytra.pw.toml"
+hash = "b23261c20208ae76b87f236b082f27d9a96c744c31305dee6fcbc981b9c1fd55"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "ba02aa1a31c110e9995f51be1c2f3a9c7a81216fd57814df0aea1214a586ccfe"
+metafile = true
+
+[[files]]
+file = "mods/easy-elevators.pw.toml"
+hash = "27dc39df46beb63373c846f405158799b4c5bfe50ddb1afc4dac9a2c27925a0c"
+metafile = true
+
+[[files]]
+file = "mods/easy-elytra-takeoff.pw.toml"
+hash = "f5a29dab7bd82da7ffd5006e36e940a3f6efa74bc75e1a29c165e84aef242137"
 metafile = true
 
 [[files]]
@@ -81,6 +136,16 @@ hash = "ed16d558fcbf461e82c9af46d9c7f3c0dd77ff435c26a8fdfe12a3e3654605ca"
 metafile = true
 
 [[files]]
+file = "mods/fire-spread-tweaks.pw.toml"
+hash = "b3d80689d59aa33c7b5c103ba5954d6b9dc0ab9c90119f0e6c754b133083bbc5"
+metafile = true
+
+[[files]]
+file = "mods/grass-seeds.pw.toml"
+hash = "200fe70a46a61ce67961719f724d1c32297745cb24f7c62ba3d9cdf1661326ed"
+metafile = true
+
+[[files]]
 file = "mods/hearths.pw.toml"
 hash = "d3c87341967d3f6b40b8d5f99bfd60bc7652be3514c9640820c9bf3a644e01ca"
 metafile = true
@@ -88,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "67e79451f65405d25841492f5729ad7acc9ad3076c05ed26cabba6ec6b6b5651"
+metafile = true
+
+[[files]]
+file = "mods/hoe-tweaks.pw.toml"
+hash = "d638fe1868b1aef2a9a3ed317cddad27d43a223d2b5118911c1f67204edc315f"
 metafile = true
 
 [[files]]
@@ -106,6 +176,16 @@ hash = "48ff959c2ee2b874cc4142255e7f29e6d63800eccaed218d486d62b5ef3b918d"
 metafile = true
 
 [[files]]
+file = "mods/just-player-heads.pw.toml"
+hash = "bea79c963f01cd5ff2487c4c1385a6e8fedb9e754fac77ea6991b0c6e6185ea1"
+metafile = true
+
+[[files]]
+file = "mods/keep-my-soil-tilled.pw.toml"
+hash = "ca680894ae7b624eef26daebca0ebb11656aeed4f81f9354190e9e00e916e59f"
+metafile = true
+
+[[files]]
 file = "mods/medieval-buildings-end-edition.pw.toml"
 hash = "05244df715f240dddfdebf2d88bc00a36011ec22184d349fb3adf0df8476d603"
 metafile = true
@@ -121,8 +201,63 @@ hash = "7d2649cb5441d5519498b2a73ab83dfca02db0bc17d9b69c977be9edaddf095e"
 metafile = true
 
 [[files]]
+file = "mods/naturally-charged-creepers.pw.toml"
+hash = "4ab9fd3c80fea990535f4e84c80c2463defa372030bbee323af6682706f96709"
+metafile = true
+
+[[files]]
+file = "mods/no-animal-tempt-delay.pw.toml"
+hash = "6b596c73c5e037174ddc9b311b438f8a4fc66ed47cb821cfd34e4aab017d5d13"
+metafile = true
+
+[[files]]
+file = "mods/no-feather-trample.pw.toml"
+hash = "871888e68cb3042956538409711c0e253fff4360e6f89fec46e1e9260b72ddd6"
+metafile = true
+
+[[files]]
+file = "mods/passive-endermen.pw.toml"
+hash = "ded54346171741ee9ef5fccf27127dd913584bed1d6b2b4223018618e6e6c272"
+metafile = true
+
+[[files]]
+file = "mods/quick-right-click.pw.toml"
+hash = "812c8a2952ec247dc368856083ae6204869260af747a6434641c1152c66dc8f6"
+metafile = true
+
+[[files]]
+file = "mods/recipe-commands.pw.toml"
+hash = "8019f2b94ae27b3999e78058ebded452b435c2d0acc1aa6985d00bea7d64d27b"
+metafile = true
+
+[[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "ab102600a1852467a4c8d09fdb3baa8eeae95a5b98b1e00dc75ddf14d3853b79"
+metafile = true
+
+[[files]]
+file = "mods/respawning-shulkers.pw.toml"
+hash = "31d702347d170422a1fd575c2c2edda54544b1fd0f387e819a6453e634d28fee"
+metafile = true
+
+[[files]]
 file = "mods/revamped-shipwrecks-mod.pw.toml"
 hash = "105f92324d25b373cc5033c8fe34e90b6ce89285dd1c179a5e4e920a0b3654b5"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "7cc34398c46e9893a0cc885bd7f36d0619dc94e1c1a9d7bb0ec917864ab57e04"
+metafile = true
+
+[[files]]
+file = "mods/shulker-drops-two.pw.toml"
+hash = "5ec67a8a27283fb964ed87437bc72fc6a44118712bab9fa3e6aa16781f72bf3b"
+metafile = true
+
+[[files]]
+file = "mods/skeleton-horse-spawn.pw.toml"
+hash = "f15d1b0c504b5dbb09f8200c58b8ba79d80a5522fae7c5311ccf45215c6973be"
 metafile = true
 
 [[files]]
@@ -131,6 +266,51 @@ hash = "e5470c01bbedef5db49b6bc6dbb6e77f12100dd6e4b02f6f5636ee41b25332fb"
 metafile = true
 
 [[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "def57a3c61c0880bfcab170544b7e02cf338158a3e097795d3ce5011d4edcd18"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "2c8e3186b0cc85dc227269d343aab142dc795071e7fe7903de96a59cd578bf87"
+metafile = true
+
+[[files]]
+file = "mods/sticky-enchanting-lapis.pw.toml"
+hash = "727d9f83e949e50e26613cc52e92945b3fd468d5887ba771d9c8965cfc531cc4"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "69a5fb565e6914ba6a13a65f80b86c8cbc60909de07950bbe3cb84aea0dfdbc0"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "38eebcbacc328ccba96d3256f687778658351fa30374de8a089ae7b4369965bf"
+metafile = true
+
+[[files]]
 file = "mods/village-spawn-point.pw.toml"
 hash = "d0b498019aae4378447b921c50c7b2b326cd65b5554238158ddb51a450c78551"
+metafile = true
+
+[[files]]
+file = "mods/villager-names.pw.toml"
+hash = "dc4f94e9e941d83729fcfd866a9e5d4d44002ceb52490cfa63fd2b20396a4ec0"
+metafile = true
+
+[[files]]
+file = "mods/where-did-i-die.pw.toml"
+hash = "d4fe57d0fe8058c34602b234de715483b3d985a021601121480e371a5b9c958f"
+metafile = true
+
+[[files]]
+file = "mods/zombie-horse-spawn.pw.toml"
+hash = "22ff2989fb816cab391a767b19fc1757f9703b49b6f733e339e14f2d1fdce4da"
+metafile = true
+
+[[files]]
+file = "mods/zombie-proof-doors.pw.toml"
+hash = "7586d7a48b9ccde8eb9c642c29a759b31198849c91394a851a8c38a8c15354b3"
 metafile = true

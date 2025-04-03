@@ -1,0 +1,13 @@
+name = "Naturally Charged Creepers"
+filename = "naturallychargedcreepers-1.21.5-3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6058683df1758191f6e8beab41005ad8a2658fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6356327
+project-id = 324586

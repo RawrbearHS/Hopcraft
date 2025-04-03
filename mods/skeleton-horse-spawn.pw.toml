@@ -1,0 +1,13 @@
+name = "Skeleton Horse Spawn"
+filename = "skeletonhorsespawn-1.21.5-4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7de6bf45e27b470cb6ec20c7deee79b4c792325d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6355796
+project-id = 346219

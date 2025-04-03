@@ -1,0 +1,13 @@
+name = "Dismount Entity"
+filename = "dismountentity-1.21.5-3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9dab529d5f44b7b3bfe0ef1e3a8446a3c52e8613"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6356842
+project-id = 348262

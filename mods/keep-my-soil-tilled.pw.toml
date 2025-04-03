@@ -1,0 +1,13 @@
+name = "Keep My Soil Tilled"
+filename = "keepmysoiltilled-1.21.5-2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69d9a281b87cd1bad4dd04fa675c9ec8c80f7221"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6356485
+project-id = 547961

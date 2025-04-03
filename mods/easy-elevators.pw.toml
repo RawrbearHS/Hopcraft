@@ -1,0 +1,13 @@
+name = "Easy Elevators"
+filename = "easyelevators-1.21.5-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cdb56ffefaf40c55dc2bf1a1101bb9ead45acada"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6356830
+project-id = 1064344

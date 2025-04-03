@@ -1,0 +1,13 @@
+name = "Universal Graves"
+filename = "graves-3.7.1+1.21.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "856f209efa35044641f830b1a893f6c6e45046a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6348098
+project-id = 497175
