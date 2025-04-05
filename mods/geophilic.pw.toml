@@ -1,0 +1,13 @@
+name = "Geophilic – Vanilla Biome Overhauls"
+filename = "Geophilic Snap 3.4-c f15-71.mod.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e628ba091bf50b0306bf2252aaeced3a535de379"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6377889
+project-id = 711216

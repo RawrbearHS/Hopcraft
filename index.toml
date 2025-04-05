@@ -35,6 +35,16 @@ hash = "0c4aa6b863ff2d3150425cfe7ae3acace617234f34ee05cda38d7fabc6c809db"
 metafile = true
 
 [[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "8b07789513bc51a5405bcd56e703e2e0b091d1a8d0a1b07640dce8570fe60572"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "078de9d0514e7d84ab8d29f934bc0e7c63aba65955106c84fe55bee5a1c15922"
+metafile = true
+
+[[files]]
 file = "mods/beautified-chat-server.pw.toml"
 hash = "06a70ee2fa2c55a0762e3cad48dfaf3995ccff0df25a8372b8bb6b5352dce3c7"
 metafile = true
@@ -45,8 +55,18 @@ hash = "169956aff261f145e4a68edd5998063e5a126fc6c2e020a9c7f140547e16801d"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "745d07aff2e46a1f973d56e3aa52a6b85368cd4d2ea317b67be8bbce6ada3b9d"
+metafile = true
+
+[[files]]
 file = "mods/chorus-fruit-drops-nearby.pw.toml"
 hash = "5818c8f19c3e8f5651e24bb661febc30a564851ada7d84bc1bdd365266a18543"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "8c0563c333d9841731f5a41cc0314d921fa98f579c9b7909749d1379df61f988"
 metafile = true
 
 [[files]]
@@ -170,6 +190,26 @@ hash = "3204b4da3fa674276243ce89797b6e2b7af512984b59c18fa57a038dd16877af"
 metafile = true
 
 [[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "a56aa4be9a604c1bec9240cdb9613de06eac8d571f171735d2a907f98136821c"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "92211169026fa26d29c34c130e512a0c9df81e26a89329c17603086d80fe2704"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "62e22ed67158a93b407e7d61c82c3e1dbcf38c9b9d4eb6138840342373df7eec"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "a85acfa2e25c655be74e679a88ae26c7f8855923bb7f397e777a57c94ebf7fe2"
+metafile = true
+
+[[files]]
 file = "mods/grass-seeds.pw.toml"
 hash = "8bb047370ecd5c85d4f0ac30ebbf903738439b0f808e2960de7fa17c4ef1ef80"
 metafile = true
@@ -205,6 +245,16 @@ hash = "64d7ad6314528236bae0534b5866b3959715128f2379bb0989f97cd7b9ef5fcb"
 metafile = true
 
 [[files]]
+file = "mods/improved-pillager-outpost.pw.toml"
+hash = "1712f89210bc9c9d6043d33737d5b17d13f2b7238e0fc6f16a9d43fe05fdc7de"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "de94de03e062c848d1ad3508be53138f963041acf4eb279c45cea678af25a71e"
+metafile = true
+
+[[files]]
 file = "mods/just-player-heads.pw.toml"
 hash = "567b00a7064f0a385782ca4f70441e82b112792936c1ff527536635a78a2afcf"
 metafile = true
@@ -212,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/keep-my-soil-tilled.pw.toml"
 hash = "8f7863603f3769d20435693d092b17ed3a7e98da9484be75d0d4297fd0d63768"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "7bb3a7bb6bb645d5eebe0c414358156115b2a628218a21be733e34b28c14fe1b"
 metafile = true
 
 [[files]]
@@ -225,6 +280,11 @@ hash = "58b1b52e8feb460a5c6d8332c3fc8a9ad92aaf8a42ece9009b2718b4e64ddb76"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a5fb9c283a76f3d496b100da86dad6e8351f2dd31d4a0e18cc7089418912aeb6"
+metafile = true
+
+[[files]]
 file = "mods/naturally-charged-creepers.pw.toml"
 hash = "4b1d2c4047eb2a88dfddaf9f50706f85c4b98d639903698cd80e642a330557d5"
 metafile = true
@@ -232,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
 hash = "1fdc9f223056e1d30756893feef6bfe32489f004fc41b75ccbb43adc98b561c0"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "569e6d716ef6101e1e9957d02314101a70c9a5344828a546487b3c3a0192cc9d"
 metafile = true
 
 [[files]]
@@ -295,13 +360,33 @@ hash = "3284932b5e60354fa69572520bf12718a32a308cd2a334155e63cc8c3d9b0e60"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "1338fe3f258a472b58526481cba2bf624d966866f4cde360e466caa5c9d24274"
+metafile = true
+
+[[files]]
 file = "mods/sticky-enchanting-lapis.pw.toml"
 hash = "2fa7a16f528746dc79726ce3db4bd05d29d8ee8be07534a198d2a24bbcedc71e"
 metafile = true
 
 [[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "bcc9f40db3622589ae22f7bf706c08554cd7aba8f78d7abae1aa3e4f9f7be62f"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "7bf1c92b936f1a0a887cfadfeeade48e2e67ccdf082ecdbba9758ee650446581"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "0e02e93b9468dca005f7fea385e92612e38bb6807f4dcd64ce7a4b22fac78581"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "b55f4e6488ae6b3f7eb4f15f5702eaae753c1260082bd125fee550dee0342a5e"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Improved Pillager Outpost"
+filename = "ImprovedPillagerOutpost-v5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "325f371af2ef6af8d12fc12e99a82fbdab680cb2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6269462
+project-id = 1093283
