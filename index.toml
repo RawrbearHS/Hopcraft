@@ -410,6 +410,66 @@ hash = "eb6493a160f157ae4d0f57edccf82036c8a3b514c56dacfe41f9c3fe72583396"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api-fabric.pw.toml"
+hash = "6dab48f414813600d0254a252bff887c32c8c7bbe770cdaf690710241f3107db"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples-fabric.pw.toml"
+hash = "48f6722b78bf842db49c3c7f8087d51014c6078ed263abb4b61ed7d1043d454e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.pw.toml"
+hash = "3b0ef759865216f4744a00454a355072e91c3124ac6435201b12c92d9f3c8cf4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island-fabric.pw.toml"
+hash = "a25240c396beaa8f096f5fee785591c4bd401fffb4ae550919cd35dce4a8caeb"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples-fabric.pw.toml"
+hash = "77b02236b2c9a7103150cad508b94095d647e15cc1ed630ecaab2c645efda243"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.pw.toml"
+hash = "e14351c9fdd8b452f4bec7c422d75a54ee1209f114a04b47579cf0d6a99fc76a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses-fabric.pw.toml"
+hash = "c3245add12232e5a85a6e176d27cef26f730d2dfa55525c093557196f554bb81"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
+hash = "28b5c6ef70b73059feaae4e518660b3af963459a49c55e16d7642bda402886ca"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.pw.toml"
+hash = "1a8b1e6459a8f7212b6784561cd0bffa9194246ff09ac425d426bda35bb1f91b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-fabric.pw.toml"
+hash = "ad1c72e5e8323cd49c88a4dac74d0a0cd647206c40b1f255d14e31e8f35d4898"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges-fabric.pw.toml"
+hash = "2df9fc409fbea2506dd1cf571d819fc35f9589e0fa9d2188b58f578e42080a9d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras-fabric.pw.toml"
+hash = "0edc0284cd5a4cfdddca5c98b5c1380e20f0f81b2ce431b16ade308c078267e2"
+metafile = true
+
+[[files]]
 file = "mods/zombie-horse-spawn.pw.toml"
 hash = "fa634e8b3b2096dc3ce29697f4509d3f00a2d2a2cf9b39322d77cebc0e78f8b1"
 metafile = true
