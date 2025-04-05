@@ -1,13 +1,13 @@
 name = "DnT Jungle Temple Overhaul"
-filename = "DnT-jungle-temple-replacement-v1.2 [Fabric].jar"
+filename = "DnT-jungle-temple-replacement-v1.2 [NeoForge].jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7177ffb6aec21f18d6f6afe5af2a429375892a24"
+hash = "00e16584bc706f9760d8f91cee05897f6cb251c2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5724470
+file-id = 5724471
 project-id = 1053226

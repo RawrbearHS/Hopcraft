@@ -1,4 +1,4 @@
-name = "Hopcraft"
+name = "HopcraftNeoForge"
 author = "RawrbearHS"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1b62bdc9dc2e458b11f06af4573e38812d2ee3fec7dc940d048d8f8037b473e4"
+hash = "ef420b9f65d609f0f31f6ef147efe3b17e782af6854235e2069eeea51fedda37"
 
 [versions]
-fabric = "0.16.12"
 minecraft = "1.21.1"
+neoforge = "21.1.143"

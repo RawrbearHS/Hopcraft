@@ -1,13 +1,13 @@
 name = "DnT End Castle Standalone"
-filename = "DnT-end-castle-standalone-v1.1 [Fabric].jar"
+filename = "DnT-end-castle-standalone-v1.1 [NeoForge].jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f5115511795241bf3a2737429102bd29b5c1000d"
+hash = "c56ac1270976043e7becf44aa4b09915de43d592"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5724480
+file-id = 5724481
 project-id = 1059409

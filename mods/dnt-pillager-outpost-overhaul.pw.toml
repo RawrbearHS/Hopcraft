@@ -1,13 +1,13 @@
 name = "DnT Pillager Outpost Overhaul"
-filename = "DnT-pillager-outpost-overhaul-v2.2 [Fabric].jar"
+filename = "DnT-pillager-outpost-overhaul-v2.2 [NeoForge].jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "612da6f01ee7138cba906727469d668faedd6b3f"
+hash = "bba5591cf6a494fa734ce6a21ae00662eb7223b0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5511861
+file-id = 5619504
 project-id = 920423
