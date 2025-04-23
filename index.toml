@@ -50,16 +50,6 @@ hash = "06a70ee2fa2c55a0762e3cad48dfaf3995ccff0df25a8372b8bb6b5352dce3c7"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "50b048acdfaa84aaf5048fd96414e182cef4e45b9b6af155fc922f7fe8ff7093"
-metafile = true
-
-[[files]]
-file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "2757f6ec66763fa5760bbaa8ff66b960bdd949949b0b0c0f7a68c39ba10e0311"
-metafile = true
-
-[[files]]
 file = "mods/better-spawner-control.pw.toml"
 hash = "169956aff261f145e4a68edd5998063e5a126fc6c2e020a9c7f140547e16801d"
 metafile = true
@@ -102,11 +92,6 @@ metafile = true
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
 hash = "0f52ac7f3613a86f361557a141a9aa51b85bc3c10daae043cb1a9862991676a6"
-metafile = true
-
-[[files]]
-file = "mods/connectivity.pw.toml"
-hash = "3db09541f30e5a48f6bcf62a5d6b088d2d203bd6eb0a66bfceab1918ca2015ee"
 metafile = true
 
 [[files]]
@@ -422,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "8876ed7fdc1ad94eb650e0ce6b1dc45b35c3b7b607d0b51c4d58b839335894c0"
+metafile = true
+
+[[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "2522eff9fdb80e5906ac9b12b95b55158f4ffc93c8a51ffc17e41ebcfe36dc22"
 metafile = true
 
 [[files]]
