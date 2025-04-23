@@ -100,23 +100,8 @@ hash = "5a625c0c23afbc5e5d5643474673d7291c247ad905d7e7cee8804aa7bccdbd70"
 metafile = true
 
 [[files]]
-file = "mods/dnt-desert-temple-overhaul.pw.toml"
-hash = "8235da5473c9a15e57620eda95629eeb687797086832a885f6b45c02fceb2abc"
-metafile = true
-
-[[files]]
 file = "mods/dnt-end-castle-standalone.pw.toml"
 hash = "c2af42013fffbe3a3fcf6a0d442de54ec25258bb6e4b41ee40fa88d982e18368"
-metafile = true
-
-[[files]]
-file = "mods/dnt-jungle-temple-overhaul.pw.toml"
-hash = "daaaa9b027d52ba2eaad980cb6f0987fff76c4be482e88a77517b702b9709833"
-metafile = true
-
-[[files]]
-file = "mods/dnt-nether-fortress-overhaul.pw.toml"
-hash = "0cd8099e993a6a0b7c24bf5b2b01247a52fdedf91d10b276b9ec49bf03b81d7b"
 metafile = true
 
 [[files]]
@@ -127,11 +112,6 @@ metafile = true
 [[files]]
 file = "mods/dnt-stronghold-overhaul.pw.toml"
 hash = "f0b2d1669c679546007ac857596f96f93cd67e730454eb65ea87cdab6f7c0c9f"
-metafile = true
-
-[[files]]
-file = "mods/dnt-swamp-hut-overhaul.pw.toml"
-hash = "f4f1165381b64fefc43db449784fc7b906dd374725e72f1b41d1b8c605793490"
 metafile = true
 
 [[files]]
@@ -157,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/easy-elytra-takeoff.pw.toml"
 hash = "b92eee616d61ec37487a882c0d4e29401977db3245aa179c5efcb8a361c7f6da"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "fd2b924a2fc8518fe0195c8aff7cb75e6e3bb6786402117544a3f5d6a36086e9"
 metafile = true
 
 [[files]]
@@ -437,11 +422,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
 hash = "28b5c6ef70b73059feaae4e518660b3af963459a49c55e16d7642bda402886ca"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds-fabric.pw.toml"
-hash = "1a8b1e6459a8f7212b6784561cd0bffa9194246ff09ac425d426bda35bb1f91b"
 metafile = true
 
 [[files]]
