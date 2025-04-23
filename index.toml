@@ -26,7 +26,7 @@ hash = "0e334551ab41bcbe645776ed8a7376f8946024ee59d4c597f74e33a70ce045bb"
 
 [[files]]
 file = "mods/adorabuild-structures.pw.toml"
-hash = "be3b3752c69d7ed74148f2c54c8fc6762325faf48bbd96d43b9d17feb4cde57c"
+hash = "69575a6f734b9bb8f7e3e904dcc514b8be6fb9386caebe88ff16da19a3687126"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "078de9d0514e7d84ab8d29f934bc0e7c63aba65955106c84fe55bee5a1c15922"
+hash = "5650845c79a8be884eed91e2c559f262dcc2f0f789dd5770b5b84ab4c5ae033d"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
-hash = "8c0563c333d9841731f5a41cc0314d921fa98f579c9b7909749d1379df61f988"
+hash = "49959ed7f5d7d6f8893856afe6674d7b34c2f5d6831c7c0c75550feec103e90d"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "029247813a867697f5ceea0935839d557fd10d839cc98b5c8df8ed42361bcace"
+hash = "d3c143c5b518d2a57888cf1916e06bdb0f50e83b8341bf65885cdc769886647f"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7ef3ca7d135795107b540911fcb356818738274f2999151946d5518ce5fd8887"
+hash = "e3ed8904a184d84b134e20f19a3790152867dafccc1d029c8c8a93051825cd86"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "a85acfa2e25c655be74e679a88ae26c7f8855923bb7f397e777a57c94ebf7fe2"
+hash = "a1cd6717a88d46c89946347bfa7c6b705de5f70e8b3d00732a6719d2f622e4e8"
 metafile = true
 
 [[files]]
@@ -236,17 +236,17 @@ metafile = true
 
 [[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
-hash = "7ecfac4c4df2bca3656526b2b7e5c9c49ca27edd622101c3512ece44025f7668"
+hash = "db362b91a7a850da18584030c97211bc5a55c2cf0769b0e4fcac4f5622574f04"
 metafile = true
 
 [[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
-hash = "7966803d5a7aca1a819ec229165f1532896e96b18add8a9f8ddce2c1639d9e26"
+hash = "87c111d2a61cf5bebcbd755596a97962856c443e8afccd48eb8b5a152bb23263"
 metafile = true
 
 [[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
-hash = "64d7ad6314528236bae0534b5866b3959715128f2379bb0989f97cd7b9ef5fcb"
+hash = "68c48eeaee34bdd0d22981a4f85105bc1037d558be74d2c115696430049f839d"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a5fb9c283a76f3d496b100da86dad6e8351f2dd31d4a0e18cc7089418912aeb6"
+hash = "51ef5f48423cf719d2a4e1111aae2a224f1661de5c706fdfa2f136e07dc655bc"
 metafile = true
 
 [[files]]
@@ -391,12 +391,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "bcc9f40db3622589ae22f7bf706c08554cd7aba8f78d7abae1aa3e4f9f7be62f"
+hash = "c717a543df79badff07c5953669012b07543f8f7faa4f488f64c41976f780262"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "7bf1c92b936f1a0a887cfadfeeade48e2e67ccdf082ecdbba9758ee650446581"
+hash = "97f0df4c55858f545b95ccaff7e919fccbc26910555ea0cc6087553bc1ae5d61"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/village-spawn-point.pw.toml"
-hash = "d90514d4d6a42f39fb9fd672b44cfd21a80a14764fb91c6b061411b9c2c54db0"
+hash = "51e571c72327184c573943f19502d5050bdbeafb7072776df8d10bf3607a88e1"
 metafile = true
 
 [[files]]
