@@ -30,6 +30,11 @@ hash = "be3b3752c69d7ed74148f2c54c8fc6762325faf48bbd96d43b9d17feb4cde57c"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "dbe1649fa42770235a80d50b60f37c86221a1ecb3e0cd5a3eebc2f9167928f91"
+metafile = true
+
+[[files]]
 file = "mods/areas.pw.toml"
 hash = "0c4aa6b863ff2d3150425cfe7ae3acace617234f34ee05cda38d7fabc6c809db"
 metafile = true
@@ -45,6 +50,16 @@ hash = "06a70ee2fa2c55a0762e3cad48dfaf3995ccff0df25a8372b8bb6b5352dce3c7"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "50b048acdfaa84aaf5048fd96414e182cef4e45b9b6af155fc922f7fe8ff7093"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance-fabric.pw.toml"
+hash = "2757f6ec66763fa5760bbaa8ff66b960bdd949949b0b0c0f7a68c39ba10e0311"
+metafile = true
+
+[[files]]
 file = "mods/better-spawner-control.pw.toml"
 hash = "169956aff261f145e4a68edd5998063e5a126fc6c2e020a9c7f140547e16801d"
 metafile = true
@@ -52,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/chorus-fruit-drops-nearby.pw.toml"
 hash = "5818c8f19c3e8f5651e24bb661febc30a564851ada7d84bc1bdd365266a18543"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "1edd2cfabb619660184561ab311bf5a6ad8d49d950030de1fef3cae4f9a549dd"
 metafile = true
 
 [[files]]
@@ -82,6 +102,16 @@ metafile = true
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
 hash = "0f52ac7f3613a86f361557a141a9aa51b85bc3c10daae043cb1a9862991676a6"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "3db09541f30e5a48f6bcf62a5d6b088d2d203bd6eb0a66bfceab1918ca2015ee"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "9e444b3cfef7e5874823dc34c529c3ab322fda7ec56d96a06dd3c763bad238df"
 metafile = true
 
 [[files]]
@@ -220,6 +250,11 @@ hash = "64d7ad6314528236bae0534b5866b3959715128f2379bb0989f97cd7b9ef5fcb"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "eec16279b36b3341de41760b91675d96bb5028579dabda7c06397c5a0bf6c087"
+metafile = true
+
+[[files]]
 file = "mods/improved-pillager-outpost.pw.toml"
 hash = "1712f89210bc9c9d6043d33737d5b17d13f2b7238e0fc6f16a9d43fe05fdc7de"
 metafile = true
@@ -242,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "7bb3a7bb6bb645d5eebe0c414358156115b2a628218a21be733e34b28c14fe1b"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3fdc92ff58a76637e11877ce3855dfee8448390e471a7597b842e744574b1c95"
 metafile = true
 
 [[files]]
@@ -325,6 +365,11 @@ hash = "95bce75412aad3d4e65360d1a353036b6566aeacf420838945f33905e5c43bbe"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "23d0857606a4319432e689ebb66d0b858cb5fdc7c5442bd7858ab3457683d37f"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "f5031d53eb32a7b25e0c2347f599805679a49073b86ed4450ca60ec9b72086d1"
 metafile = true
@@ -352,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "7bf1c92b936f1a0a887cfadfeeade48e2e67ccdf082ecdbba9758ee650446581"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "07f2f89f4df05261ac0aea8122cd87771d58aca205660d6ba7831d0bd8fb02b2"
 metafile = true
 
 [[files]]
