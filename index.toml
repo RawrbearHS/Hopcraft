@@ -13,6 +13,10 @@ file = "config/skeletonhorsespawn.json5"
 hash = "5a7c4b35ba74c7750f746876771937bde1bff140cedc99b36e673ea52738c86f"
 
 [[files]]
+file = "config/sparsestructures.json5"
+hash = "7af4ff78cc9303b57953f45e380671563bca4207fc8b89d7a0f0f276f5cf2a65"
+
+[[files]]
 file = "config/treeharvester/harvestable_axe_blacklist.txt"
 hash = "148f7809e109bba0b97450192da9b403ab91aa34d5ea0429990ceafc5af8f203"
 
@@ -32,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "dbe1649fa42770235a80d50b60f37c86221a1ecb3e0cd5a3eebc2f9167928f91"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
 metafile = true
 
 [[files]]
@@ -205,6 +214,11 @@ hash = "8bb047370ecd5c85d4f0ac30ebbf903738439b0f808e2960de7fa17c4ef1ef80"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "6ed1fd41278a7c1e4d60115d6ae64e1cefb1182ec5e068b5eb816428be15d4bb"
+metafile = true
+
+[[files]]
 file = "mods/hearths.pw.toml"
 hash = "d3c87341967d3f6b40b8d5f99bfd60bc7652be3514c9640820c9bf3a644e01ca"
 metafile = true
@@ -360,6 +374,11 @@ hash = "f5031d53eb32a7b25e0c2347f599805679a49073b86ed4450ca60ec9b72086d1"
 metafile = true
 
 [[files]]
+file = "mods/sparse-structures.pw.toml"
+hash = "720ea0c5872d76b58439ed200a93f58bdf1e246abf4bfb17a6a75edeac05c24c"
+metafile = true
+
+[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "3284932b5e60354fa69572520bf12718a32a308cd2a334155e63cc8c3d9b0e60"
 metafile = true
@@ -387,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "07f2f89f4df05261ac0aea8122cd87771d58aca205660d6ba7831d0bd8fb02b2"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "c702e025298d58a90705f502abad07bb03e1dcc22733c95e1379665aa149918e"
 metafile = true
 
 [[files]]
