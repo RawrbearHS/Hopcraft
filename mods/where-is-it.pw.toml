@@ -1,0 +1,13 @@
+name = "Where Is It"
+filename = "whereisit-2.6.3+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35c790039f677b460ecfc37b5e0a076241ba66d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5753993
+project-id = 378036

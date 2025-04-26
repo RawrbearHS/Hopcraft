@@ -1,8 +1,0 @@
-{
-	// If the death coordinates should be sent in the chat. This is visible for you only, the client.
-	"showCoordinatesInChat": true,
-	// If the death coordinates should be broadcasted to the server. The message sent is as if you've typed it yourself.
-	"broadcastCoordinatesToServer": false,
-	// If a screenshot should be taken when the coordinates are visible to save them across instances.
-	"screenshotDeathCoordinates": false
-}

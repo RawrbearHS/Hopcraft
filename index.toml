@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CREDITS.txt"
+hash = "f34af89ee5e11edb571702b7cbf426ed0c838fa3e9bb8997fffbd8c3c43d1c9a"
+
+[[files]]
 file = "config/naturallychargedcreepers.json5"
 hash = "c01440930d7ee26d72cd54503788422dd3cab68196cf968785d616d9e489f554"
 
@@ -21,12 +25,1060 @@ file = "config/treeharvester/harvestable_axe_blacklist.txt"
 hash = "148f7809e109bba0b97450192da9b403ab91aa34d5ea0429990ceafc5af8f203"
 
 [[files]]
-file = "config/wheredididie.json5"
-hash = "c2c5e0d400168d0967cde36ca9dddb6c91f5ac3e065b8db7faac2e278463621c"
-
-[[files]]
 file = "config/zombiehorsespawn.json5"
 hash = "0e334551ab41bcbe645776ed8a7376f8946024ee59d4c597f74e33a70ce045bb"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/Selected Packs.txt"
+hash = "f7d2046aa4aafa29b5d4195de38574cff35977d3f9158e4b3f647ef8e0056e23"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/copper_powered_rails/advancement/recipes/powered_rail_from_copper.json"
+hash = "aa9dfa4c1d995154fe966de41e08f817e3c84528d16ef98862be31e000d58984"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/copper_powered_rails/recipe/powered_rail_from_copper.json"
+hash = "a1f4b185bd15c14c028edbf5540be6a8e9109c7d8363dec651834544b47231c4"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/craftable_bundles_leather/advancement/recipes/bundle_leather.json"
+hash = "0bd4c4f1ea9b891aa22594746f79f95cdea0c24052747675c2ed01a53502a61b"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/craftable_bundles_leather/recipe/bundle_leather.json"
+hash = "8aabdf1efcc949e03d300f446e01236904f72785ba3a04941e938223ba151cdf"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/crafting/recipe/blackstone_brewing_stand.json"
+hash = "b0e8cc5f900d1f06b0a0fee9949f069f4741db899d7f31d448fd6021a0653792"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/crafting/recipe/blackstone_dispenser.json"
+hash = "bbe49ee2f2d5cc48db7cb7704c9c40642bafc0e55f8563d6f5f6ba0bbebc4d96"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/crafting/recipe/blackstone_dropper.json"
+hash = "04d0f87e8a4e3f433bef1f40f7bb1ee2b2dc4c88aa30d9256c00615f58237551"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/crafting/recipe/blackstone_lever.json"
+hash = "5c21c5b2c707bf538d05167ef50c3bcdab3a3d32aa7dea47fafb52da4db131cf"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/crafting/recipe/blackstone_observer.json"
+hash = "f332834fc64b951122b301d4fba01c59b11d918ff32ac10de50a23dc53637b9a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/crafting/recipe/blackstone_piston.json"
+hash = "e25164710990fde8cd4d26e63b267a905a95d00407872969278a6274edc2dca7"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/dropper_to_dispenser/advancement/recipes/building_blocks/dropper_to_dispenser/dispenser.json"
+hash = "f74187e0a2d2d385c625ac46d685b366d767ad9bde073763a62d082a01a2069d"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/dropper_to_dispenser/advancement/recipes/building_blocks/dropper_to_dispenser/dispenser_alternate.json"
+hash = "dd193b444bda172adff6cd677d7b8d5284166b7e0fb73512b181c01ef570cafe"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/dropper_to_dispenser/recipe/dispenser.json"
+hash = "4c360c87b7158b14e5cfc7322af4c3d47f684172e7f87724416da5fafcaceb02"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/dropper_to_dispenser/recipe/dispenser_alternate.json"
+hash = "7b5776a5fd7d2dd481f7d3987fa6139811576d28470969c5fe596ea763433c4c"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/minecraft/advancement/recipes/building_blocks/slabs/bread.json"
+hash = "57969e9f90f70048693f99e4e2720c2f74510d1bb95062b3d83dccd9946a9832"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/minecraft/advancement/recipes/building_blocks/slabs/paper.json"
+hash = "5634b6ed3d1a092350135aad18a80f8603f8154a1f39ecd4bfbecacdd5393351"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/minecraft/advancement/recipes/building_blocks/slabs/shulker_box.json"
+hash = "925240b2d6834b08a2e6110b6d0e7cd5e015fcdf82ac92b15f10f042f56f0e6b"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/minecraft/recipe/charcoal_to_dye.json"
+hash = "cf79bc9231561de36b84c5427ea4343d2ef19d936e10460de4593741f9f0b046"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/minecraft/recipe/coal_to_dye.json"
+hash = "881f3cf00b22d54ffc1eb33d61145dd34030302df01219a35ed9d47295a764a5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/minecraft/recipe/straight_to_shapeless/bread.json"
+hash = "538fab61cecf6a1975095af883bf7005b5f6ff2e7cb50dfa21b954306cd8e4ba"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/minecraft/recipe/straight_to_shapeless/paper.json"
+hash = "5e53d51e2d4d7407ef54b26d6fc69b6c632523322e24126e4f8ccf476d1229d5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/minecraft/recipe/straight_to_shapeless/shulker_box.json"
+hash = "52e06123e947c80f63c1155d731661dfe58f7de8c3d6de2e2a26e2ab280806f5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/rotten_flesh_to_leather/advancement/recipes/misc/leather.json"
+hash = "789a49bcf959d5befac09eb4846d13f9dc76defc8b92c8051363e09f2b71c229"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/rotten_flesh_to_leather/recipe/leather.json"
+hash = "fb8c4567664d9bb995a3d46a4b2513d4aa147828f6ba70a2f65b8238dc1a3f7d"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/advancement/recipes/building_blocks/universal_dyeing/candle.json"
+hash = "34ec879d5a517b8153eb28360dd8bcf135fa241e41faef1698f896844943b55f"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/advancement/recipes/building_blocks/universal_dyeing/concrete_powder.json"
+hash = "631453b9ac802739edc1930da55738991d0ff57b601321b5a6f45bd6599496c5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/advancement/recipes/building_blocks/universal_dyeing/glazed_terracotta.json"
+hash = "c2a275ed05e7c9b437411be0b76dceb03d032fb9d161985b955e6bd3399d21c8"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/advancement/recipes/building_blocks/universal_dyeing/stained_glass.json"
+hash = "c8f3fb7f8398207e75e06f3b9093678c30fbf9a6622032b7261264870a49cb0f"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/advancement/recipes/building_blocks/universal_dyeing/stained_glass_pane.json"
+hash = "6252ccf2d047397398f49516e47594f4a1fa31c17c3ed3e65570819e6e98dc32"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/advancement/recipes/building_blocks/universal_dyeing/terracotta.json"
+hash = "c0e7ad37ebf79e97c9a0c6f75864da6739ef4a365e920ce6f2aea9c8a0cafc8a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/black_candle.json"
+hash = "119f1dc70a8cf4ab6e999b4d9214e6926db5a2a45713bedf5b129773a1b5e1ee"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/black_concrete_powder.json"
+hash = "61e99fb153613edeb6c70b8b29e3d66a53d4d76f1be625750e9d59df78e78ca7"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/black_glazed_terracotta.json"
+hash = "47dc14b6e0624231b5d388ce4ccd5ec54d0bafb402c2858a9ed093559719e9ef"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/black_stained_glass.json"
+hash = "1d13f5843deb4973ae16de37ed83d400c573d45efd6040266ed174306c04c3cb"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/black_stained_glass_pane.json"
+hash = "26ff5e233983c3df8c717a7de17a401424d8cca8836b4afba10cd115143181d8"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/black_terracotta.json"
+hash = "33209c5b33a6331ac495f543d154bc4ddc316459389a684863a8cea46d634cc8"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/blue_candle.json"
+hash = "723841020a55011872ef3acf86c501ad16f69bd5ea71c7b2e80225c561e3a40f"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/blue_concrete_powder.json"
+hash = "75b5bd679378cd5540294cfe8f8e79da5a48c25d92a6b973795f0e210c998a95"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/blue_glazed_terracotta.json"
+hash = "3dfe18ea2a6eacdbe5c78e8f6c1b21c62400236c53c219aab77d94a0cb77067f"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/blue_stained_glass.json"
+hash = "2ea04c7dcbdef400f3de70c3b1a83c1d0104c5bc4c3dc349f30fe87b495263f6"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/blue_stained_glass_pane.json"
+hash = "020170a713ea9a114af689a658c26b995dbdd72b637197f3e6ffa234582fd789"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/blue_terracotta.json"
+hash = "1aea91d87a00932827b64bead2aacebdf7eb09079008a046f2147e74aaece2c4"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/brown_candle.json"
+hash = "2e529e0790105878f205739aa463c024e4e556b178839bf6faeff7e3578ed057"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/brown_concrete_powder.json"
+hash = "7d8f393d7b4c00ae3725e43ef73c1d09794e4aa0072e7248261c1b04a790364b"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/brown_glazed_terracotta.json"
+hash = "81853b2cba564ab12050c1edf5f5cb5e47197563e03e8ad482a779d9c5dcb9e1"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/brown_stained_glass.json"
+hash = "091c2c6e2ef2edcabd482e6c08ed11683268c464a50ec75cc4749da813764857"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/brown_stained_glass_pane.json"
+hash = "75f337a273ee7a9fcabd54cc0a8afda2a64e09098abaa034e9d35ee9249f030e"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/brown_terracotta.json"
+hash = "cb79d0b70f4ec86209263447fb04566084ca78e8913407e0d63ecf810461f614"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/candle.json"
+hash = "f39f1728df31c5bb7a55df3835b9da5604da57b8cb4ef693695adec3ffdd507f"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/cyan_candle.json"
+hash = "693ebf11e4627725ba5e02a9fbea868826e2f21bed21ca9bb6faae5bd14901ed"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/cyan_concrete_powder.json"
+hash = "317f9adfd885bde145268ccab111884b48421e7cd54aa4e5ff55df232cceeb46"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/cyan_glazed_terracotta.json"
+hash = "4e1e82db6d0f66b816db892c01d75bb4b21ad250b12a4b9d7ac93356434445db"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/cyan_stained_glass.json"
+hash = "209045ddf512f978ae0cf64d5c6c1a793c8c0d461f340c63f1ba55c8b910b8d5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/cyan_stained_glass_pane.json"
+hash = "233a8345aa98556bb91c1dbd8c748f0d35783d97af8fd45c428025eba9732c34"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/cyan_terracotta.json"
+hash = "ffe4d4abc21648c43a5dffe18efc3df6e3c55c572addc9778265a7d76a1dc25e"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/glass.json"
+hash = "cc142921cf1b066094f204ca188e20c131fcedae466b3adbeebd21c611f821d6"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/glass_pane.json"
+hash = "e74f2c46cda75c56f65a6854994747600014d13af863a4ef9e7c4261ad05046d"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/gray_candle.json"
+hash = "9e71049dfd67edfcb4578f9255a51a1df9aa8f9b192fcc96b5477ce8479df490"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/gray_concrete_powder.json"
+hash = "17c0d7e5dea729b2db1cc3c60798b0f7c76767d2bdf2761937924d1d06863b7a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/gray_glazed_terracotta.json"
+hash = "ff936158b0df2a9dcc7dade7dc4a4dfee56a2a400b4dfe4fac9b73a5e150459d"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/gray_stained_glass.json"
+hash = "e4130b975b7624702727f34271cf279e0fe1601f5ebd3d1cd6966f0775437f03"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/gray_stained_glass_pane.json"
+hash = "0b218afdb22ffe083161b57c6c97ade734f9071220c4c016d7a4d9bbb772e573"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/gray_terracotta.json"
+hash = "3adda57df2ca677648115d76e3838f222681f74cf0270e5cb9a66b1d99cae1ed"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/green_candle.json"
+hash = "a4badb68286fef03f60e67f48b403c87f28229d9d2f105325c4ac542b0506992"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/green_concrete_powder.json"
+hash = "f6bbf914eeb86d5738b704db0fded9c4d89d4a35a0a1c9d99233eca1cc5a5bcb"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/green_glazed_terracotta.json"
+hash = "51013c67029adb6dfa6c692b8af6c407006a634f6271b846377ffe0c4d506bd4"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/green_stained_glass.json"
+hash = "4cdc69e0ad20df5af2b31b4dae31168cd76b06208548e36539fc0692b8059d88"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/green_stained_glass_pane.json"
+hash = "146e142c720b6a99362a2ff30492060e589336e20b89c81b0138ce3844165142"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/green_terracotta.json"
+hash = "28f987b2baac99e3b0f11021c0f35137cd30a905894c77014a945f1061db5a5a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_blue_candle.json"
+hash = "889d61365f58e0caeff6bb40b687619f5e43a16eb9f5994f4de66a4e85054e24"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_blue_concrete_powder.json"
+hash = "2a6cab4009d53c0a6a76aa4c103b719f858b75cf89ebb71f507202566be2959d"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_blue_glazed_terracotta.json"
+hash = "c430e0e23ac56b74a10995ae5679953725620da6ae66b868f7d8a32cdeb483fd"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_blue_stained_glass.json"
+hash = "a18ff542daeed687f3df8de609c1a2c3feb24c380756426b7600ac1b453482a7"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_blue_stained_glass_pane.json"
+hash = "eecda0213c7a17bd05bff94e8a5bbeebc4a84d7dca3e3765720dd0fb15aca2da"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_blue_terracotta.json"
+hash = "9f045ab42eb553739a6f41fa2f4ee9961166584d6a6ba0b39c2814722b847ee9"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_gray_candle.json"
+hash = "0cfa18bca02ab900a5b0d6c5436d83d761814b0f07400543c956c805edf19aa8"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_gray_concrete_powder.json"
+hash = "9dba715ea982cf04370994c00fd748cccb9f3c023648c9fe91a9851e6ce20951"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_gray_glazed_terracotta.json"
+hash = "478e25d07f0b586ee1c4428c5834c1f00e5c55ff9b6bb17503d91fc46efa1ab8"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_gray_stained_glass.json"
+hash = "fdc778fa7cd18f58e4bebe1be1e0027635f433e268c64b2a28e4ebc1de16ce73"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_gray_stained_glass_pane.json"
+hash = "f071c731b795daacad1f1c258844b1ae5f0d1c43cb3f324f3ee947869b595fac"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/light_gray_terracotta.json"
+hash = "27a65b356381ecebd1e8b3120f94f571f4f8d93963c2bb5f5c58aeb76aeeb44a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/lime_candle.json"
+hash = "c7614c61b3818b120f2d6daf7413dbcdd4a2989af92a421f2cb6314a883e33e0"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/lime_concrete_powder.json"
+hash = "254f81596d8103500e7c3892b9e79b0bc060a2fbefcda1cbbcbc02d77ac299ac"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/lime_glazed_terracotta.json"
+hash = "9812b421a7f46207dd33dd6ba6702af5308cf9e3df187581879f73b3cb61a653"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/lime_stained_glass.json"
+hash = "1e1e9e0d626567251a252c44a62a0592e1cd4c25c52c15d4b215482e298524f3"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/lime_stained_glass_pane.json"
+hash = "37a30018cdf1f807799e5a97a2198ad2782207f2872fb6e7d320cb54c0ab3873"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/lime_terracotta.json"
+hash = "767a95392710ba2f26616ebff73caf19db98b4cf3693ec538d160f7789132c8c"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/magenta_candle.json"
+hash = "a29c70be0a11c6fced7035ce40a9409214fa7224393c0d3dd775d010d6f2e568"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/magenta_concrete_powder.json"
+hash = "5b28cc30e4a23fc5a09b38efb76d8628db3a335d2d19ac272a69c3a8fbfc876d"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/magenta_glazed_terracotta.json"
+hash = "38473aabd96620f9828d964970aeb4ea9e805f928276caf46b4f266021cd82c4"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/magenta_stained_glass.json"
+hash = "4b65eb7c8927f2dc5fcc5bc31b86a4f83e8eb8b072759a0f93508730f130ee15"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/magenta_stained_glass_pane.json"
+hash = "ab100ce2597f7197e57099a1b046967ae77810b7f23540eae934eb324cae549a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/magenta_terracotta.json"
+hash = "81bc94ec26a71a3e85afff9e95f90e8626d1daded0c438227a72dc7c01f9f616"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/orange_candle.json"
+hash = "3b73e1f21aba6ec3b2ce6016a35e8a284c8d6b9f75ca050ea3155b08ef762f65"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/orange_concrete_powder.json"
+hash = "2ed06d7f89d61fa2f4a6764f4f1a8b8d97163ad701103770099643ae561ae246"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/orange_glazed_terracotta.json"
+hash = "b1b3c2767afda7714cccfc10f05c3511440018ab982ac2f68a190ba7fb013a83"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/orange_stained_glass.json"
+hash = "3b8b444a52c52caac1dbfc6dc112209b24115347b8fd9f1ac80864f5e6f09814"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/orange_stained_glass_pane.json"
+hash = "81dbe2728b62c3836bb93f7888b27a664b37562486425ae097c1f06bb4328f1d"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/orange_terracotta.json"
+hash = "4f8b1ac731278dd96ef92a272f5ed03b8bcd29ccd0ff78d35b8de65e5f471824"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/pink_candle.json"
+hash = "3369faa577b15ce6687cf6310b819fd432f8a9a0bb76ca52b04ae4f220bc2288"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/pink_concrete_powder.json"
+hash = "0845575e5ff97ad2296278f2c7ef7011a47ff34a2dae58d08712cd57415b4362"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/pink_glazed_terracotta.json"
+hash = "067c70e1988715a8d48cbbaa8cd7cefd19112c92c7f5c9479b4a14af57900110"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/pink_stained_glass.json"
+hash = "33ff1d14e74f45a6ab56eb0c9704e054c0398d5407d8d63687b95649553e4439"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/pink_stained_glass_pane.json"
+hash = "42d31cbf73cd5c6c7e0545b971fc8f50760f0c92fd1ff634f32ef27d871fd0a3"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/pink_terracotta.json"
+hash = "67a09f954586efd5e6d8bd4a8ee3264e4e521e5939b303bbf0cdebbefdabb088"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/purple_candle.json"
+hash = "6b25a716269af65f8509d5a325106b51df2ed0750c66fc178041eeb74e663ae8"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/purple_concrete_powder.json"
+hash = "0c2c373af44b7ee10008b10b9c860f90073997edc4629bc62a396aff2adc7720"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/purple_glazed_terracotta.json"
+hash = "54933276c56f109b355a1e6fa4cbb71aefef0024fcdf5f63dec2628f4dac366a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/purple_stained_glass.json"
+hash = "71461eab88430e7f9b45bbff785501610c1721f891cd8904929df5cf709057d9"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/purple_stained_glass_pane.json"
+hash = "8acce2521c101798c5a17afb064574cc4338ff1cb996352cfe7ce7cf528e9ef9"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/purple_terracotta.json"
+hash = "c3bc554cafdb1c01d3ed141b42de2f1df4bf51f4ff510d6967e667017e1e4a00"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/red_candle.json"
+hash = "045150a591189f9af5c2cf37d0f1e5b23d64dcc283b96174c34b9250d3e30da2"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/red_concrete_powder.json"
+hash = "abc4455fccd581b44afe157240d9ad615fe3bb822db71c06966f7f35e135d516"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/red_glazed_terracotta.json"
+hash = "fc8c8485afce6436945b0fa2834473a6f8770ed5ceb998622e5c0293b7422bf2"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/red_stained_glass.json"
+hash = "2ad31992b954c2171d0adea767df0fad9b909e3d341f9298e73c488dcb5f4522"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/red_stained_glass_pane.json"
+hash = "38112533c1f531a1816ed0e2f4abadacdaf014dce67671b5a73ad2fa4267cdc5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/red_terracotta.json"
+hash = "d38aa0359b5d52649634254f6cef7e839987fd3c8dd11d84b279c6e8c9cc5810"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/terracotta.json"
+hash = "edafc3a1fc3e9c01493be66195fb211bb4f5dbb5b36ca06ea48b6ba023018f50"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/white_candle.json"
+hash = "2265f97b8926ebdf0910d28971fb0a055b51e118afc2146a7bca1e31c2b0ddeb"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/white_concrete_powder.json"
+hash = "6f7fb1b2fd1f66cb4939c6f927544ead0760ea735bc7478e7f61c3418b16d389"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/white_glazed_terracotta.json"
+hash = "cba1e57ba1274878950dc405b6f36e0cc8220626c1eea3ee09deb6f904c7c262"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/white_stained_glass.json"
+hash = "d0c9c1cfb3cd58afb18890effed03ceba66140631617107496b3e2cb561a34e5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/white_stained_glass_pane.json"
+hash = "15736acfa93ca01fab36db96eed5403cfbf49c80c99c9415e4d14d841e7af0b1"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/white_terracotta.json"
+hash = "3e878fb676b1be95e3c9508c83b9f41973751f3009175c308730ee60f0dd65da"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/yellow_candle.json"
+hash = "40e5ef86c3aaaa54ac22c56c4cad80aaec90d2087da3f40e8883f98dff0c0ee6"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/yellow_concrete_powder.json"
+hash = "7b033a68020169595da03c426ad5bcbbad2f786b5660ee0aabb7ca6e99712d09"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/yellow_glazed_terracotta.json"
+hash = "384a8fc1fc6ca07261154434d751030eee722fadff1cf3b6d2fb74c8259aa634"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/yellow_stained_glass.json"
+hash = "f50972a8662c5fbb6bace93840822b40f8717d3e69aede207a56d04512366874"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/yellow_stained_glass_pane.json"
+hash = "18cccabe56ed8c687b4f0d8e4044982637ac3d7a3d9b6770124b9492249a4a30"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/recipe/yellow_terracotta.json"
+hash = "0aaa0552623275991fdf02a453c8dd0aed8cd730df66b08405d0b40c65ec43a5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/bed.json"
+hash = "28793a8ea070df989f7a7e7ca16225b9083a3604c595054dd7179fdd3c19ad7d"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/candle.json"
+hash = "a2c59880746ab65a1dacbd45088e1f7d8f23530b8c72d9b4a7e7b7cd1a82bcc4"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/concrete_powder.json"
+hash = "6e69194f4688e658267ad157e9de0289a5a88c59f2416e625b94daeda46142c5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/dyes.json"
+hash = "46f8a11ea28b8bb67d043f63b8528febb45be55f10a11f893596b07a7d960b95"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/dyes/black_dye.json"
+hash = "02d5a21097ba5ea906785dd0f27cfce13a7d7e5e5293820b92fc1f82f815ffa7"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/dyes/blue_dye.json"
+hash = "1959b8b31fbed61856df4703f7c0bd4663a41289a6371a9b750922b76d64c55e"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/dyes/brown_dye.json"
+hash = "8d69bad118aa731be3ebef6f23afbc4e5ea8615c5f9552adf4606ce3bdfe23d7"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/dyes/white_dye.json"
+hash = "f5a33a047cd9068dd327b905289f59e72fa7e3a857b8f512df337cd8891f6dca"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/glazed_terracotta.json"
+hash = "0e2277ee68e9a8e8d46ac87b90f805675328198c3f7830beeb28c768410b7477"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/stained_glass.json"
+hash = "3ab00bc168c4f9048706d70900dfbf7c0f398a5aa793faf940644c344eab9661"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/stained_glass_pane.json"
+hash = "84838d3a1d0757e8e6bdd0eebb285cccff1ffab7138af24e7c3396a892ea49a5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/universal_dyeing/tags/item/terracotta.json"
+hash = "8a33231d202390b7adbdf6292b7f1ab21684aaac6ceb14d9e80c9253b7f69a4c"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/wool_to_string/advancement/recipes/building_blocks/wool_to_string/string.json"
+hash = "75a2757a97821d979110a4af585b2402748e5a85ea7ed60524bd9396fcc9bf0e"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/data/wool_to_string/recipe/string.json"
+hash = "6570c9426144ff552b8ab641bc9f94d64848758017dcce0ccd78f3e5e0cecc6f"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/copper_powered_rails/recipe/powered_rail_from_copper.json"
+hash = "163003ec94b77e44f5501b81d6a16d73e966c96bec46fc682dd1c2ff08e3fdc8"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/craftable_bundles_leather/recipe/bundle_leather.json"
+hash = "02e91a59e95000f848684f11556ac321cb8c24218cd0f0b6341d944352455094"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/crafting/recipe/blackstone_brewing_stand.json"
+hash = "36ecab27e9419877ab8027ce0a89663eca8dca7f063df4b614e9c4d440db888a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/crafting/recipe/blackstone_dispenser.json"
+hash = "606075d03083b54782c7c4df1e3c2352d8febe01198684bee3075ba1c3e39483"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/crafting/recipe/blackstone_dropper.json"
+hash = "b64d7e2bd39876cba93204a863623839d0b90bee7e79118dfa81572d9a0c1d45"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/crafting/recipe/blackstone_lever.json"
+hash = "b0513d0dfecf11b0bb6fa8fc5ed474061af737cfd8c14880d8297ae8eb0b3654"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/crafting/recipe/blackstone_observer.json"
+hash = "5a957c6906eecdd214d128806d1135066de8327aed229adca90a4d87beccf817"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/crafting/recipe/blackstone_piston.json"
+hash = "633dfd44511756a87556ce6d7104d20cb2e11d7064bec40c904784e0fdc82e33"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/dropper_to_dispenser/recipe/dispenser.json"
+hash = "6b305d7e4da61d4c99b991f9dd49d5e1d022c5f31169a2d0c19e34e7d7eb06a8"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/dropper_to_dispenser/recipe/dispenser_alternate.json"
+hash = "2ae4991af4c370715c2a275a16d75c9e4118fc94345246c788965d6760048ee4"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/minecraft/recipe/charcoal_to_dye.json"
+hash = "63283cb57f0f13a1309d7401efd8a9e63518df27db226663e820df3d445d56dd"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/minecraft/recipe/coal_to_dye.json"
+hash = "d60543f8f3ff867dbf47f767ee9ac55a62f46782d13b5994d486d6e968731c65"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/minecraft/recipe/straight_to_shapeless/bread.json"
+hash = "bcf0ac79eaa17a230293a5c7ecbfa06119321e5a62a53bea66cb62fba9e2c426"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/minecraft/recipe/straight_to_shapeless/paper.json"
+hash = "62e2070e89a4c30a87f53073e7465cf601010ed56bcb2655d11f3ada6a54203b"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/minecraft/recipe/straight_to_shapeless/shulker_box.json"
+hash = "e39fe1c87851a9483211461c5972c8f7205ad4eeee63e6c86a1812dfb78307c3"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/rotten_flesh_to_leather/recipe/leather.json"
+hash = "627c936a204b10812eec8a1934bf729cb9fee7f4077f54bcb1e88dcb929482b9"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/black_candle.json"
+hash = "37b9f0be8e3a6fc9f1b57f8be24c9418f925b69bf1e166f789d39e62be558134"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/black_concrete_powder.json"
+hash = "8621aac04fa5808469c777285d9a86416fe0b71a62747ad92cb37fbc982bba4b"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/black_glazed_terracotta.json"
+hash = "028acfd1371d92712b0ecd9c402d8d1e04c520f84d8e54f0b02bb2ea061b991f"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/black_stained_glass.json"
+hash = "01d819294caa7152184747eceea6afd2db0fe21bf4778dd48a854d227a4fd137"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/black_stained_glass_pane.json"
+hash = "380fd624e156e8c4d23a6bd50f7dc2d978a8541c0927adc90ce8b2cc32023598"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/black_terracotta.json"
+hash = "c6af3fa966c95e8a73993ba2c7f3cdff9b1365f4b8922481d0fa84511b630d53"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/blue_candle.json"
+hash = "2992c46d92d85678f841156fe53f57e9f5009529cfe6db6065e8f781da9ae17a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/blue_concrete_powder.json"
+hash = "cc3edf002b55c1f4783b4e27d169f0a0a4103fe2664d55787fd8b3be622b473a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/blue_glazed_terracotta.json"
+hash = "468a1973018d98bf4cfe24ee873f0891e610597baaf07d1c068fae9d46a1ce98"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/blue_stained_glass.json"
+hash = "fa7f61e243eba12d0759a03763750a69c1ac517511decbc39ba7f057baa46250"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/blue_stained_glass_pane.json"
+hash = "02409a8eabff0003e1e2536b1fb8b68491ea7653edb875f7260b6ae5441806d6"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/blue_terracotta.json"
+hash = "7e2a47cdb67801d4b4bcde2b7abf65d54a58a80b5fa0edf96ccc29ae253d0dae"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/brown_candle.json"
+hash = "d61b9bcf8477ed19c8583a4e166aac91c9db949cabc25b82699027810601c610"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/brown_concrete_powder.json"
+hash = "a090a593d0413739b8d07dc114a844d97266b119962723dc378ad4d426e7c059"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/brown_glazed_terracotta.json"
+hash = "4c73640e1177212ee2fc005fc9d2cd26aabc0d7f2bcf86de3625e34b6dd3f645"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/brown_stained_glass.json"
+hash = "000b78d280c5e01eba9985304c02f05363cf2986131a704a18ddee89af1d8fc6"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/brown_stained_glass_pane.json"
+hash = "dfc00ebf0a1b4f68a008d346b461119c198a2dee7cdacc92e667c1b3fb0a1bd4"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/brown_terracotta.json"
+hash = "7eeef0f53e65d5f1035f3e6b57d8f87dd1a7f025f6771f75cbec6c23e527ea61"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/candle.json"
+hash = "b19e18fb1618637c922db2289c440aa1aec2401248b3185e3f24542cde479e31"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/cyan_candle.json"
+hash = "ca2b1d25b15acfde711dd177bae5fa6fb407006e7ef315d367fcbe507fabdb83"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/cyan_concrete_powder.json"
+hash = "42780d537a4bce0a57c44163f204833eb63de66472904f13b833beefd1f5585d"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/cyan_glazed_terracotta.json"
+hash = "19000573453c984d04477c619835a9fd44e8baec0db93867021372d8961b9a80"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/cyan_stained_glass.json"
+hash = "9a59dc7fbdafca10c24f86cffd3fa79a4e65cd5edeea7d7478da1d469a2c80a5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/cyan_stained_glass_pane.json"
+hash = "bf55f37ccdbae2e5754bf1d490bee0c8f1f1723689f4cd290fcff4fb35a07f2f"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/cyan_terracotta.json"
+hash = "7f6e6e63efb86e2d1a52d3a77bb12e6c0f9505c38d72a1a61a189afddf0ea282"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/glass.json"
+hash = "5c5ef4e5be430c55678d044a1e0a35256ede2bb324e6ed6f38b2b438bed0adf2"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/glass_pane.json"
+hash = "008c7d1303f23fe408529aeb1b6959d1c099d5377924b79bc36369821b5e32dd"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/gray_candle.json"
+hash = "b304627c595b09261609e03c57205b0dadf29afa5ceaa858c96ba0ebb65234f8"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/gray_concrete_powder.json"
+hash = "290cb4a24b0c1a857ec4deb0bcf9857ee4f2b64dca8415fba24aeacf1f5f9db9"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/gray_glazed_terracotta.json"
+hash = "59c825e10243a64dad5516ff2abe2c7589ad7ed24cafcc6ea6ffbd9f77779d34"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/gray_stained_glass.json"
+hash = "aef8b421234f1089cbb4bea243b0692a928821ec31cf99301bcc244e1f0a4ea0"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/gray_stained_glass_pane.json"
+hash = "baff7e0194008ca5605dc05a4cb56adc1fb9afe7f9d8f234d65ad8a5645e6422"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/gray_terracotta.json"
+hash = "d6d6c3d4270d0dfb786282cd8e23e543a4252fa5982fb0dcc37d217fb7ebe99a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/green_candle.json"
+hash = "14c8c4978d7815f86c20c6610cbac40dfe9eeced90f7efe7b69654d6b6ac3b37"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/green_concrete_powder.json"
+hash = "081fd208f9fd814ccb551d89d88ad8793edaca07f465d4b240ef5e4d7252a2e5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/green_glazed_terracotta.json"
+hash = "0d7652a7d027fb79f6c017602b57c518183d7acc3d124c153eac12f294932cb2"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/green_stained_glass.json"
+hash = "9e37b075022a32ae71653107c36ba8da643a2bdeaeec4f5fba3d02870bf6bd38"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/green_stained_glass_pane.json"
+hash = "18c5feefce6a622cc2155877753fcd22de7e266459b8824c5ce74f1b59293de7"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/green_terracotta.json"
+hash = "62f7115212730317a3b29e600a6ca48dd54ce100d93e5e8881c639dacf196109"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_blue_candle.json"
+hash = "9abff88cf39c1f79c689e3b050fd3fbbc7b4e4dc7228221f77277a075b0caa49"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_blue_concrete_powder.json"
+hash = "77aca351b57f422a000ba78398edc893d5a7894a687b0bed0eca6248fd4ed61e"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_blue_glazed_terracotta.json"
+hash = "d0130f75325ad03d1e3d23ad049b68bc68b4ff08c5757b8e7e69d40e02e9bf65"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_blue_stained_glass.json"
+hash = "60c8f3a4c50ab245653de82a3b58bdc475141aeaa99ac89ffac6214d64062681"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_blue_stained_glass_pane.json"
+hash = "9a294e3215035f0d8fd5e4e00af059882eeb5529231fce124cadb18e6e47a5c3"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_blue_terracotta.json"
+hash = "a8a0e9cd89a9789a85013411cdf5a74db25c8fc70de0b09cb459cff02fd3d7cd"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_gray_candle.json"
+hash = "7ef88ad5bd8aad6dfad777600f7d1715476b3dcab39f0a44a1133cd6a01a6332"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_gray_concrete_powder.json"
+hash = "ee8db7fe1a3696483b564a78fce782e5a1f42f4859f676c5fa593572becf9e15"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_gray_glazed_terracotta.json"
+hash = "94bd5027613eb8b8c8829d2c70114ab623817dabeece79a4deefc92295f7cd52"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_gray_stained_glass.json"
+hash = "0d21e11171da272032b727cc6f21fb3adca74f522f70b8aac574605ea1c1d304"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_gray_stained_glass_pane.json"
+hash = "8cbbaadc1ba467e858efce1a2582dd309df5d19cba427981a14de0638c25ec50"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/light_gray_terracotta.json"
+hash = "ff2053ac348ca5ea952918bd6c79e1f50cac75141bcebda5982095233be62709"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/lime_candle.json"
+hash = "2661883428e5bb60a7c66a9e9538bd6972fefe9c55b88dcd2b69945f67270f24"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/lime_concrete_powder.json"
+hash = "02363b23beb619145c9b4a373de51220c6e29fe957fdb45143919dc77706da41"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/lime_glazed_terracotta.json"
+hash = "48b0f6b145fa610c49a65300cd0c0fd709e09e65b346c0611b9b0ef27fa79ed1"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/lime_stained_glass.json"
+hash = "89559686073e4ebcbccccb155503439cc8f1f28a332320ebe844062253d81f75"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/lime_stained_glass_pane.json"
+hash = "04dfa999dfe17fa8857c0c83751443e45818a8a4f9ce496a1e06480472e48f49"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/lime_terracotta.json"
+hash = "76ac702f2e3821a497b0da6e22c11bfba0bdb66f043c282747830afbe0ca877a"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/magenta_candle.json"
+hash = "71a769861cfaad19a4df4aa1698506a69df15818cd5dafbbaac47d9684505645"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/magenta_concrete_powder.json"
+hash = "e53ac2df0f26f1371f7ef14f69f545565843b2dedd98bf9a87b39f59dce77bdc"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/magenta_glazed_terracotta.json"
+hash = "e4f5b1da10ac1425c7a1178ae397b6f488aa9b28ab30b6661bf1f8021a530b32"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/magenta_stained_glass.json"
+hash = "121ce1ce444e84b3bdfe2a85632c3098280528e901b5592d728587b1f5cb4e61"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/magenta_stained_glass_pane.json"
+hash = "d9a5d2039416a0bd4d3891eeabc8c3d4d138dd42eaf0d09c600b5343f02a6408"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/magenta_terracotta.json"
+hash = "ddca274ffcb9a16fe9be7e1bcb7d25aff020ed48bab51da4e7a2c48f4b926fdd"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/orange_candle.json"
+hash = "ccc66dae27383c0034230d53b701e6b0a18183351eaef9cb2bb40ca3a8bf007f"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/orange_concrete_powder.json"
+hash = "56900547790780fedc8a80fc9477015ec7ce95b1b464f4dcc6ae2a5c50776bb0"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/orange_glazed_terracotta.json"
+hash = "0899b27ff46d0e2f911f37a73afee0ea604617449a7ce93378c7d56dae9d13a3"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/orange_stained_glass.json"
+hash = "ba8b15f973321c7298020d3f851fc89b89f808cd7b3c34ea544a3ddee593b5fe"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/orange_stained_glass_pane.json"
+hash = "05a2d779ab500f9b579cf04c75a1824bc756fa67aef762d5272f02bbee829dce"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/orange_terracotta.json"
+hash = "3a2237cd03439308a125c7816b1b6ef8fb639cfe84c310256cecf9c415a3dfc3"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/pink_candle.json"
+hash = "fa1ad53e457473604ce43ee0b48eada836ead9d5f9a6fe34196c831c019237d8"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/pink_concrete_powder.json"
+hash = "461f6cdf3ed7fa49bcd44870b78691ed0c939961ea44d275a0f388f7170d18cd"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/pink_glazed_terracotta.json"
+hash = "b5981018726aa494c81f70fd59755e9df3419f10f01a69045ae69c2ed8c28819"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/pink_stained_glass.json"
+hash = "1373bd979537804e0d98cbcbcbcb683fe65aedeae1fed3c6ea8fdb82dd730437"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/pink_stained_glass_pane.json"
+hash = "e52aa1842dc685596476b01b379e64d1bfc44b80298fe0a5e7e9e1255522cd7c"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/pink_terracotta.json"
+hash = "f5f561c215c0b0400c193fbf2af3c98e013f86a8c39065da39276af8af338f61"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/purple_candle.json"
+hash = "3706b4932b7dc48ea07bff689f9737f51b073204d2cb4cebf6b100a24686ac63"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/purple_concrete_powder.json"
+hash = "d820471d809316f1325f5b8c364be61cb6a1a48b8e59cd207b49c2e645e163a5"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/purple_glazed_terracotta.json"
+hash = "85e9fc821472bd4d94f8d55d9e746f7258d326259c37c8d480e605043eb28b6c"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/purple_stained_glass.json"
+hash = "973c898772b32e812d24056a73a07b01bef0e1964fff16b4bd98fec0e0f2d2cb"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/purple_stained_glass_pane.json"
+hash = "6683763fd550d477b372712e4b241d5410f99f3c1fa9fffcac57aed3d00cdb08"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/purple_terracotta.json"
+hash = "0b0d620e640ae6e82982d7bf4ac3ab08aef53612d75fb0a924f16c70e325c2d3"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/red_candle.json"
+hash = "8445ace15325d53ea4ffe24c199db9245771572d54e04710244e71ed667353ba"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/red_concrete_powder.json"
+hash = "4275039e06a0f079ee7320456da5dad85f41cf3a3d996b4f406e85c29aa71672"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/red_glazed_terracotta.json"
+hash = "db3c409a5c538d80aab76cd611c095afbf4b6ec1ce0a90e6ad8cba8ab4dd4398"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/red_stained_glass.json"
+hash = "c0b46501c4be8fdbaead70e1add30305b8a20a57c0c12e2099d57f2881cb61cc"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/red_stained_glass_pane.json"
+hash = "8915f8ef2da33b4aca405b99accd6e969d491c436e8a0e122e2c531d411b4c33"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/red_terracotta.json"
+hash = "e4056bcc764ee65a7d5b7e2e6af2c9a60f6ba334d63e9c35d4bce5e2058bc3e4"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/terracotta.json"
+hash = "07daf8ce1e8cf96125ff8c6ec9e533119a438053e486b623b36820796f2dea10"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/white_candle.json"
+hash = "76cb275910918937f2c64bba2a5cfb2933c7603fad1497936c3101d9a5871c48"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/white_concrete_powder.json"
+hash = "67bf924a075545b9c5d249e066915f9c6c6223a0f87c0ebac114d4e0c0c9d176"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/white_glazed_terracotta.json"
+hash = "5473f496a0a0a08e8c264eebe7d099a5a4f4e206e9bf91aa4e0ddb4d00957b17"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/white_stained_glass.json"
+hash = "3278ba75645de472e4c50c6b960aa7b4ba928a07af7600ea51c90c5fb078813c"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/white_stained_glass_pane.json"
+hash = "a8bf66297510da216c02acb1bca0a541d43398142f429794e78bc347b1882c31"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/white_terracotta.json"
+hash = "cf129e8872ae0dc96ac6775fdc5f5419087fb0dd0e5d28b18cdbe9c0a12ee4c8"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/yellow_candle.json"
+hash = "7d9c4514f4cad8b81cc09e4e8682a57c0b858e71c6174b471891326ad98f0900"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/yellow_concrete_powder.json"
+hash = "e3e761b03b5527ace5af2eaa0cf7f76841f806bae665edb688d045d43f5f3f9d"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/yellow_glazed_terracotta.json"
+hash = "3b0f54bf6384661f6afc4eb5f40bb2303f142eefa94816147276e8440af4b792"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/yellow_stained_glass.json"
+hash = "4ecef32733a50c2c0ce60b7dfc78d75736bbb87b1400d5653a897ddc817c0f6c"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/yellow_stained_glass_pane.json"
+hash = "0b8fd91965fa26ac30742ef36e846c39a5caac01b7d3e519da7e5097f35bc96b"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/universal_dyeing/recipe/yellow_terracotta.json"
+hash = "393f9fff9da2cc8bea3b3ad48a1edc4b9f0b51600f152d9c5d5a023c4f0c8445"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/overlay_57/data/wool_to_string/recipe/string.json"
+hash = "60d59fcaa8d217f4f4d2d31b6b0192cb54af1c2e0e4a033deea7d9dfc3f3ae79"
+
+[[files]]
+file = "global_packs/required_data/VanillaTweaksCrafting/pack.mcmeta"
+hash = "855312c89d4c404a9853f00cd5cb0fd02eb16f6d7f7b0e01f8c668eac2c1bba0"
 
 [[files]]
 file = "mods/adorabuild-structures.pw.toml"
@@ -104,6 +1156,11 @@ hash = "0f52ac7f3613a86f361557a141a9aa51b85bc3c10daae043cb1a9862991676a6"
 metafile = true
 
 [[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "d92c84c31dd14143b6526ae97cb01c7320391774520f29ec2111f0aa65cbad60"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "9e444b3cfef7e5874823dc34c529c3ab322fda7ec56d96a06dd3c763bad238df"
 metafile = true
@@ -146,6 +1203,11 @@ metafile = true
 [[files]]
 file = "mods/dragon-drops-elytra.pw.toml"
 hash = "af6f0a1f4569a2bfc5e804c55c2b3ba0d4ecc9f3e2fd8e423bdcd5b5099e557d"
+metafile = true
+
+[[files]]
+file = "mods/drp-global-datapack.pw.toml"
+hash = "cec1f901aa1119990e2a67da0c92aad9fc3988311850336d12da2e7cc6f0c5d2"
 metafile = true
 
 [[files]]
@@ -304,6 +1366,11 @@ hash = "4b1d2c4047eb2a88dfddaf9f50706f85c4b98d639903698cd80e642a330557d5"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "2f48f2b454092408f2653cdd59b6b924788323095880721259c1cabd53c83eac"
+metafile = true
+
+[[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
 hash = "1fdc9f223056e1d30756893feef6bfe32489f004fc41b75ccbb43adc98b561c0"
 metafile = true
@@ -409,6 +1476,11 @@ hash = "07f2f89f4df05261ac0aea8122cd87771d58aca205660d6ba7831d0bd8fb02b2"
 metafile = true
 
 [[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "2cab1038acf64247d120a8b47570c15c6a3970f6ca4214b0cc839ca8df2971d9"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "c702e025298d58a90705f502abad07bb03e1dcc22733c95e1379665aa149918e"
 metafile = true
@@ -421,6 +1493,11 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "b55f4e6488ae6b3f7eb4f15f5702eaae753c1260082bd125fee550dee0342a5e"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "db272744a92c1392cce55a0da903016f05e9c53f7e11a5582309fbfa9b1a72b5"
 metafile = true
 
 [[files]]
@@ -446,6 +1523,16 @@ metafile = true
 [[files]]
 file = "mods/villager-names.pw.toml"
 hash = "eb6493a160f157ae4d0f57edccf82036c8a3b514c56dacfe41f9c3fe72583396"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "b6aeca0bcc7fe35b5764c6a5202da91c8a38b1301072f1fd849cfe93d789082d"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "75598428be8e6430a4b6e64942fc79219be7add430b3fbe232f9685a18a7ba78"
 metafile = true
 
 [[files]]

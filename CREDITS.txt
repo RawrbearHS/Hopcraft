@@ -1,0 +1,6 @@
+The following credits apply to mods within the global_packs/required_data folder:
+
+Vanilla Tweaks: https://vanillatweaks.net/
+
+OmniCut: (c) MeeniMc (Attribution-NonCommercial-ShareAlike 4.0 International)
+https://github.com/MeeniMc/OmniCut

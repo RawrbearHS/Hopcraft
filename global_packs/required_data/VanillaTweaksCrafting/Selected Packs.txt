@@ -1,0 +1,13 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.21
+Packs:
+	unpackable wool
+	craftable bundles leather
+	dropper to dispenser
+	rotten flesh to leather
+	copper powered rails
+	universal dyeing
+	straight to shapeless
+	blackstone cobblestone
+	coal to black dye
+	charcoal to black dye
