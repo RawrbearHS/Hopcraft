@@ -29,6 +29,10 @@ file = "config/zombiehorsespawn.json5"
 hash = "0e334551ab41bcbe645776ed8a7376f8946024ee59d4c597f74e33a70ce045bb"
 
 [[files]]
+file = "global_packs/required_data/Remove_Terralith_Intro_Message_v1.1.zip"
+hash = "2158d806fef74938eb72aa28ebedf2ba9961064a69a60252e5c6024c84dca130"
+
+[[files]]
 file = "global_packs/required_data/VanillaTweaksCrafting.zip"
 hash = "d2112b9dce8c68bae97d019b52948409a5e8ee6b71bd0b7ff59e6e3d430b10e4"
 
