@@ -22,7 +22,7 @@ hash = "7af4ff78cc9303b57953f45e380671563bca4207fc8b89d7a0f0f276f5cf2a65"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "ace32ef02bb75327d62ff351c8affd6a200fa566cdfee4ab4e0aa00133deadb8"
+hash = "5208e6b83c75b3f954bbc6649778200cb1bbe0d4ba0646d47bdaab3ae67099f9"
 
 [[files]]
 file = "config/treeharvester/harvestable_axe_blacklist.txt"
