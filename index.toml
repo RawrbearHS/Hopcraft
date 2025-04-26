@@ -57,6 +57,10 @@ file = "config/zombiehorsespawn.json5"
 hash = "0e334551ab41bcbe645776ed8a7376f8946024ee59d4c597f74e33a70ce045bb"
 
 [[files]]
+file = "global_packs/required_data/OmniCut-1.48.1.zip"
+hash = "357f370d1d927950ca2d1927ecd2c1e8e7a76ce47a690ff70b432c13c14e64c6"
+
+[[files]]
 file = "global_packs/required_data/Remove_Terralith_Intro_Message_v1.1.zip"
 hash = "2158d806fef74938eb72aa28ebedf2ba9961064a69a60252e5c6024c84dca130"
 
@@ -488,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "07f2f89f4df05261ac0aea8122cd87771d58aca205660d6ba7831d0bd8fb02b2"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "e0838a8e0bffb1e49df34cbeb10c34ee682a4e488c3e015c6c9f298e3cad4b63"
 metafile = true
 
 [[files]]
