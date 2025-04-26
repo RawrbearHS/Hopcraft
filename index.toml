@@ -29,6 +29,30 @@ file = "config/treeharvester/harvestable_axe_blacklist.txt"
 hash = "148f7809e109bba0b97450192da9b403ab91aa34d5ea0429990ceafc5af8f203"
 
 [[files]]
+file = "config/universal-graves/config.json"
+hash = "e3817fb4438d9bd9836df02312730760ce7304e79956f583584f3b137af5d3d8"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_player.json"
+hash = "f1f86bd740c9bde120cca8769e900005cf46f67cfb076b65b50c339f47deb69e"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_zombie.json"
+hash = "dc1ee62c77ef7831f52c1c9a44c5dff3e5ccaa4094d43438e9fdbe1f41a06a17"
+
+[[files]]
+file = "config/universal-graves/example_models/default.json"
+hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
+
+[[files]]
+file = "config/universal-graves/example_models/player_head.json"
+hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
+
+[[files]]
+file = "config/universal-graves/example_models/soul.json"
+hash = "bd3c7cba512978e4d0f5632aed773b47d93e80e9243656fc092d6cc56ddc53e1"
+
+[[files]]
 file = "config/zombiehorsespawn.json5"
 hash = "0e334551ab41bcbe645776ed8a7376f8946024ee59d4c597f74e33a70ce045bb"
 
